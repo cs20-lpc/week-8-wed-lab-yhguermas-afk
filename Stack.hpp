@@ -3,7 +3,7 @@
 
 template <typename T>
 class Stack {
-    public:
+    public: 
         enum Direction {
             RIGHT, LEFT,
         };
